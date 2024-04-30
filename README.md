@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Devanshu Sharma from India</h2>
+<h2 align="left">Hi 👋! I'm Devanshu Sharma</h2>
 
 ###
 
